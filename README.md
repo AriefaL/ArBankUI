@@ -3,4 +3,4 @@ Ini adalah plugin (Pocketmine-MP) BankUI
 
 # Commands
 - /bankui
-aliases ["bankui", "bank", "bu"]
+- aliases ["bankui", "bank", "bu"]
