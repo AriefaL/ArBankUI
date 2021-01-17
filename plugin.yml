@@ -1,0 +1,10 @@
+name: ArBankUI
+author: AriefaL0677
+version: 1.0
+api: 3.0.0
+main: AriefaL\arbankui\Main
+
+commands:
+  bankui:
+    description: "BankUI! Save your money in bank"
+    aliases: ["bankui", "bank", "bu"]
